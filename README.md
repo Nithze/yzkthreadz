@@ -6,8 +6,7 @@
 
 <h3 align="left">GitHub Stats:</h3>
  
-![Supun's GitHub stats](https://github-readme-stats.vercel.app/api?username=yzkthreadz&theme=midnight-purple&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide=contribs,issues) [![GitHub Streak](https://streak-stats.demolab.com/?user=yzkthreadz&theme=midnight-purple)](https://git.io/streak-stats)
-
+![yzkthreadz's Stats](https://github-readme-stats.vercel.app/api?username=yzkthreadz&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
 
 
 
