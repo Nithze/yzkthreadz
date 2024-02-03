@@ -5,3 +5,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/yzkthreadz/yzkthreadz/output/snake.svg" alt="Snake animation" />
+
+###
