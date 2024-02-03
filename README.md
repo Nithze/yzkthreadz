@@ -6,7 +6,7 @@
 
   <h3 align="left">Activity:</h3>
 
-![yzkthreadz Graph](https://github-readme-activity-graph.vercel.app/graph?username=yzkthreadz&custom_title=yzkthreadz%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![yzkthreadz Graph](https://github-readme-activity-graph.vercel.app/graph?username=yzkthreadz&custom_title=yzkthreadz%20GitHub%20Activity%20Graph&bg_color=000000&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true&hide_border=true)
 <br><br>
 
 
