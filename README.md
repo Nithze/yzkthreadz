@@ -1,6 +1,6 @@
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,materialui" />
+    <img src="https://skillicons.dev/icons?i=nvim,vim,lua,ts,js,react,nextjs,redux,tailwind,materialui" />
   </a>
 </p>
 
