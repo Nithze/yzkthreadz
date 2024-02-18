@@ -7,7 +7,5 @@
 ![yzkthreadz Graph](https://github-readme-activity-graph.vercel.app/graph?username=yzkthreadz&custom_title=yzkthreadz%20GitHub%20Activity%20Graph&bg_color=000000&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true&hide_border=true)
 
 
-  <img src="https://github-profile-trophy.vercel.app?username=yzkthreadz&theme=onestar&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
-</div>
 
 ###
